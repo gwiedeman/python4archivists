@@ -24,7 +24,7 @@ for series in root.find("archdesc/dsc"):
 		
 		#as long as we stay at this level of indentation, we can stay within the for loop
 		#lets set the @series for each <c01> to "series"
-		series.attrib("level") = "series"
+		series.set("level", "series")
 		
 		#lets make some changes to the EAD file, maybe add a <physloc> element to each series did?
 		newElement = ET.Element("physloc")
@@ -37,7 +37,7 @@ for series in root.find("archdesc/dsc"):
 for series in root.find("archdesc/dsc"):
 	if series.tag == "c01":
 		print("\nDoes " + series.find("did/unittitle").text + " have a <physloc>?")
-		if series.find("did/physloc") is None:
+		if series.find("did/physloc") == None:
 			print("No! its does not, we made a mistake...")
 		else:
 			print("Yes it does!")
