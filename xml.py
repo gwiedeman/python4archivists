@@ -40,7 +40,7 @@ for series in root.find("archdesc/dsc"):
 		if series.find("did/physloc") == None:
 			print("No! its does not, we made a mistake...")
 		elif series.find("did/physloc").text == None:
-			print("No! its does not, we made a mistake...")
+			print("Its there, but it doesn't have any text.")
 		else:
 			print("Yes it does!")
 	
