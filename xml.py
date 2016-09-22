@@ -39,6 +39,8 @@ for series in root.find("archdesc/dsc"):
 		print("\nDoes " + series.find("did/unittitle").text + " have a <physloc>?")
 		if series.find("did/physloc") == None:
 			print("No! its does not, we made a mistake...")
+		elif series.find("did/physloc").text == None:
+			print("No! its does not, we made a mistake...")
 		else:
 			print("Yes it does!")
 	
