@@ -252,7 +252,7 @@
     <dsc type="combined">
       <head>Container List</head>
       <!-- Start series 1-->
-      <c01 level="series" id="nam_apap159-1">
+      <c01 id="nam_apap159-1">
         <did>
           <unitid>1</unitid>
           <unittitle label="Series">Legal Records</unittitle>
@@ -809,7 +809,7 @@
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap159-2">
+      <c01 id="nam_apap159-2">
         <did>
           <unitid>2</unitid>
           <unittitle label="Series">Defense Team Research Material</unittitle>
@@ -1049,7 +1049,7 @@
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap159-3">
+      <c01 id="nam_apap159-3">
         <did>
           <unitid>3</unitid>
           <unittitle label="Series">Correspondence</unittitle>
@@ -1115,7 +1115,7 @@
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap159-4">
+      <c01 id="nam_apap159-4">
         <did>
           <unitid>4</unitid>
           <unittitle label="Series">Alvin Ford Biographical</unittitle>

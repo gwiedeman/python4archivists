@@ -34,6 +34,6 @@ if "05" in myDictionary:
 else:
 	print("could not find '05' in the dictionary")
 #dictionaries are generally used to store and look up things. If we ask our dictionary for the key 08, we should get the value August
-print(myDictionary["08"])
+print(myDictionary["02"])
 
 #this can be useful for things like changing date formats

@@ -23,6 +23,9 @@ for series in root.find("archdesc/dsc"):
 
 		
 		#as long as we stay at this level of indentation, we can stay within the for loop
+		#lets set the @series for each <c01> to "series"
+		series.attrib("level") = "series"
+		
 		#lets make some changes to the EAD file, maybe add a <physloc> element to each series did?
 		newElement = ET.Element("physloc")
 		newElement.text = "This series is located in out off-site storage facility. We know researchers love this, you're welcome."
