@@ -1,0 +1,1203 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead id="nam_apap159">
+  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="nalsu" scriptencoding="iso15924" relatedencoding="DC">
+    <eadid countrycode="US" url="http://library.albany.edu/speccoll/findaids/apap159.xml" identifier="##">nam_apap159</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>ALVIN FORD PAPERS (APAP159)<date normal="1965/1995" type="inclusive">1965-1995</date></titleproper>
+        <author>Rob Taglianetti</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
+        <address>
+          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
+        </address>
+        <date type="publication" normal="2013">Copyright 2013 by the University at Albany, SUNY. All rights reserved.</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Yvonne Kester<date normal="2013">2013</date>
+			</creation>
+      <langusage>
+        <language langcode="eng" encodinganalog="Language">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>ALVIN FORD PAPERS (APAP159)<date normal="1965/1995" type="inclusive">1965-1995</date></titleproper>
+      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
+      <date type="publication">2013</date>
+      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did>
+      <head>Descriptive Summary</head>
+      <unitid>nam_apap159</unitid>
+      <unittitle>Alvin Ford Papers<unitdate type="inclusive" normal="1965/1995" label="Date:">1965-1995</unitdate></unittitle>
+      <origination>
+        <persname encodinganalog="100" source="lcsh">Ford, Alvin Bernard, -1991</persname>
+      </origination>
+      <physdesc>
+        <extent unit="cubic ft.">5.4</extent>
+        <physfacet>1 video processed to date</physfacet>
+      </physdesc>
+      <repository label="Repository:">
+        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      </repository>
+      <abstract label="Abstract:">This collection documents the seventeen-year 
+	  period (1974-1991) concerning the Florida capital punishment case of 
+	  Alvin Ford. The collection primarily contains the court records and 
+	  research material of Ford's attorney, Laurin A. Wollan, Jr., as well as 
+	  other members of the Ford defense team who began work on the case in 1981. 
+	  The legal records include official court proceedings from the initial trial 
+	  in 1974, appeals, attempts at clemency, and several cases by Ford against 
+	  the Florida Department of Corrections. Other legal records include psychological 
+	  reports, background reports, biographies of Ford, as well as his prison and 
+	  medical records.</abstract>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+    </did>
+    <accessrestrict>
+      <head>Access</head>
+      <p>Access to this record group is unrestricted.</p>
+    </accessrestrict>
+    <userestrict>
+      <head>Copyright</head>
+      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
+        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
+        provide information about copyright owners and other restrictions, but the legal
+        determination ultimately rests with the researcher. Requests for permission to publish
+        material from this collection should be discussed with the Head of Special Collections and
+        Archives. </p>
+    </userestrict>
+    <acqinfo>
+      <head>Acquisition Information</head>
+      <p>All items in this manuscript group were donated to the University 
+	  Libraries, M.E. Grenander Department of Special Collections and Archives,
+	  by Laurin A. Wollan, Jr. in June 2003. An additional as yet unprocessed 
+	  accession was received from Michale Radelet in January 2006.</p>
+    </acqinfo>
+    <bioghist>
+      <head>Biographical Sketch</head>
+      <p>Alvin Bernard Ford (1953-1991) was convicted of first-degree murder in the 
+	  slaying of a police officer in a failed robbery attempt in Florida on July 21, 
+	  1974. Ford entered prison at the age of 20 and was sentenced to die by electrocution 
+	  in two separate criminal proceedings. He remained on death row until his death 
+	  of natural causes on February 28, 1991 at the age of 37. </p>
+      <p>Ford was fighting depression and a drug addiction when he became involved in 
+	  a robbery attempt at a Red Lobster restaurant in Ft. Lauderdale Florida in 1974. 
+	  Ford's three accomplices left him at the scene with police approaching. In a 
+	  panicked state, Ford chose to escape by taking the car of a police officer who 
+	  was not aware of the severity of the situation when he arrived alone. Ford shot 
+	  the officer twice in the abdomen and once in the back of the head while retrieving 
+	  the officer's car keys. After being apprehended at his mother's home in Gainesville, 
+	  Florida, Ford spent his first six years in prison under normal health conditions. 
+	  In late 1981, at the end of the appeals process and within hours of his execution, 
+	  Ford's mental condition deteriorated dramatically. For the next nine years he 
+	  moved in and out of schizophrenia, which finally developed into sustained psychosis 
+	  by the time his second death warrant was signed in 1984.</p>
+      <p>The Alvin Ford case was lengthy in part because of the questions that had not 
+	  been answered adequately until his case was brought before the U.S. Supreme 
+	  Court. The U.S. Supreme Court's verdict in the Ford case brought stricter guidelines 
+	  than previously existed for determining if someone is mentally fit to defend 
+	  himself in trial and whether the mentally ill should receive the death penalty. 
+	  Capital punishment experts Kent S. Miller and Michael L. Radelet have written 
+	  of the impact the Ford v. Wainwright decision had on the treatment of mentally 
+	  ill prisoners on death row saying, "Alvin Ford made history as the man who forced 
+	  the criminal justice authorities, lawyers, judges, politicians, mental heath 
+	  professionals, and a host of others to seriously debate the question of what 
+	  types of mental illness should exempt condemned prisoners from execution and 
+	  how (and by whom) these life-and-death determinations should be made," according to Kent Millar and Michael Radelet,
+	  in their book, <emph render="italic">Executing the Mentally Ill: The Criminal Justice System and the Case of Alvin Ford</emph></p>
+      <p>The legal process of taking Ford's capital punishment case from arrest to execution 
+	  in Florida involved many opportunities for him to appeal to circuit courts of 
+	  appeal, the U.S. and Florida Supreme Courts, and the governor. After Ford's 
+	  arrest on July 21, 1974, he was tried in December 1974, sentenced in early 1975, 
+	  and after appeals to the Supreme Courts of Florida and the United States, received 
+	  his first death warrant signed by Governor Bob Graham on November 4, 1981. The 
+	  scheduled execution date was December 8, 1981. Fourteen hours before the scheduled 
+	  execution Ford was granted a stay of execution by the Eleventh Circuit Court 
+	  of Appeals in Atlanta. After further psychiatric evaluations, the governor's 
+	  committee decided he was competent for execution and signed his second death 
+	  warrant on April 30, 1984 with a scheduled execution date of May 31, 1984. Once 
+	  again, the Eleventh Circuit Court of Appeals stepped in fourteen hours before 
+	  Ford's scheduled execution and granted another stay of execution. When Ford's 
+	  case was brought before the United States Supreme Court, it ruled on June 26, 
+	  1986 that the Eighth Amendment prohibits states from inflicting the death penalty 
+	  upon prisoners who are insane and found that Florida's procedures for determining 
+	  sanity had failed to adequately protect Ford's rights. Ford's sanity was not 
+	  decided, however, and this led to a trial in early 1989 that found Ford competent 
+	  for execution. The decision by a subsequent appeal to the Eleventh Circuit Court 
+	  of Appeals was never passed down because Ford was found dead in his cell due 
+	  to adult respiratory distress syndrome associated with fulminant acute pancreatitis 
+	  on February 2, 1991.</p>
+      <p>The Ford case occurred at a time in the history of capital punishment in the 
+	  United States of a resurgence in a get-tough-on-crime attitude embraced by politicians 
+	  who pointed, in part, to their stand on the death penalty as evidence that they 
+	  were tough on crime. This period began during the Nixon administration with 
+	  some critical changes in the legal system that made capital punishment legal 
+	  once again in the United States. The U.S. Supreme Court's decision in the Ford 
+	  case set an important precedent since, up until the case, there were no clear-cut 
+	  protections shielding the mentally ill from execution. The ruling took the final 
+	  decision out of an individual governor's hands through clemency hearings and 
+	  placed it within the court system.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Content Information</head>
+      <p>This collection documents the seventeen year period (1974-1991) concerning 
+	  the Florida capital punishment case of Alvin Ford. The collection primarily 
+	  contains the court records and research material of Ford's attorney, Laurin 
+	  A. Wollan, Jr., as well as other members of the Ford defense team who began 
+	  work on the case in 1981. The legal records include official court proceedings 
+	  from the initial trial in 1974, appeals, attempts at clemency, and several 
+	  cases by Ford against the Florida Department of Corrections. Other legal 
+	  records include psychological reports, background reports, biographies of 
+	  Ford, as well as his prison and medical records.</p>
+      <p>Several participants are represented in the collection over the case's duration. 
+	Robert Adams represented Ford from his initial trial until his appeal to the Florida 
+	Supreme Court was denied on July 18, 1979. A community organizer from the Florida 
+	Clearing House on Criminal Justice, Scharlette Holdman, located a volunteer lawyer, 
+	Deborah Fins, to represent Ford in his petition for certiorari to the U.S. Supreme 
+	Court and continued to consult for the Ford case over the next 10 years. After his 
+	certiorari case was denied, Holdman and Deborah Fins recruited a more experienced 
+	lawyer, Laurin A. Wollan, to represent Ford in his 1981 clemency hearings. Wollan 
+	took the case pro bono and continued to work on Ford's behalf over the next 10 years. 
+	Wollan was a 1962 graduate of the University of Chicago Law School. He served as a state's 
+	attorney in Illinois, spent four years with the U.S. Department for Justice, and was a 
+	member of the Florida State University faculty beginning in 1976. Although he was a death 
+	penalty supporter and a former prosecutor, his compassion for Ford's circumstance led him 
+	to accept the case on a pro bono basis. The size and scope of the files he created reveal 
+	Wollan's efforts on Ford's behalf, for example, as Ford's clemency hearing quickly 
+	approached in mid-1981, he was without legal representation. Wollan was asked to take 
+	the case and over the next six weeks, from August through October, he worked solely on 
+	the Ford case as he struggled to acquaint himself with the details of the case.  
+	Attorney Richard Burr joined Wollan in volunteering to represent Ford just as Ford's 
+	first execution approached in 1981.  Both remained on the Ford case until his death. 
+	A number of state officials are found throughout the case's legal documents including: 
+	Florida Governor Bob Graham who had the power to grant clemency to Ford; circaE. "Sonny" 
+	Strickland who was superintendent of the Florida State Prison; and Louie Wainwright and 
+	Richard Dugger who were Secretaries of the Department of Corrections for the State of Florida.</p>
+      <p>Ford's attorneys collected many articles, pamphlets, and publications on the 
+	  subject of the death penalty. The research material in this collection represents 
+	  many organizations, most of which oppose the death penalty. These include the 
+	  NAACP Legal Defense Fund, National Coalition Against the Death Penalty, ACLU, 
+	  Florida Clearing House on Criminal Justice, Amnesty International, Institute 
+	  for Southern Studies, Florida Citizens Against the Death Penalty, and the Florida 
+	  Conference Against Death Penalty. The collection also reveals the sentiment 
+	  of these anti-death penalty groups during a time of resurgent support for the 
+	  death penalty. The news clippings are a comprehensive part of the research material 
+	  covering many death penalty cases in Florida spanning two decades.</p>
+      <p>The collection contains court records from at least six specific trials and 
+	  many other appeals and motions that, besides chronicling the case, demonstrate 
+	  one of the arguments which many anti-death penalty advocates utilize, that a 
+	  death penalty case costs more than a sentence of life imprisonment. The collection 
+	  is strongly enhanced by a separate collection of news clippings that directly 
+	  relate to the Ford case. These news clippings are very helpful in understanding 
+	  how the case developed.</p>
+      <p>While the collection contains a variety of records covering not only the 
+	legal aspects of the case, but also Ford himself, and presents a thorough 
+	example of the nature of representing a death penalty defendant, it is understandably 
+	limited to death penalty issues as they relate to the state of Florida. The 
+	implications, however, of the Supreme Court ruling on the Ford case in 1986, 
+	that a mentally ill prisoner cannot be executed and the resultant change in 
+	Florida and other states' laws concerning the process of identifying mentally 
+	ill prisoners, is what makes this collection so valuable.</p>
+      <p>Additional material for the Alvin Ford Collection was received from Michael 
+	  Radelet in January 2006. This material is not yet inventoried in this finding 
+	  aid.</p>
+      <p>Related collections in the M.E. Grenander Department of Special Collections 
+	and Archives can be found at the web site for the National Death Penalty Archive.</p>
+    </scopecontent>
+    <arrangement encodinganalog="351$a">
+      <head>Arrangement of the Collection</head>
+      <p>The collection is organized into the following series:</p>
+      <list type="simple">
+        <item>Series 1 - Legal Records, 1974-1991, 3.8 cubic ft., arranged alphabetically. </item>
+        <item>Series 2 - Defense Team Research Material, 1972-1995, 1.26 cubic ft., arranged by size and alphabetically thereafter</item>
+        <item>Series 3 - Correspondence, 1970-1990, .17 cubic ft., arranged alphabetically</item>
+        <item>Series 4 - Alvin Ford Biographical, 1965-1993, .17 cubic ft., arranged chronologically</item>
+      </list>
+    </arrangement>
+    <controlaccess>
+      <head>Subject and Genre Headings</head>
+      <subject source="meg" encodinganalog="650">Medicine and Health Care</subject>
+      <subject source="meg" encodinganalog="650">Death Penalty</subject>
+      <subject source="meg" encodinganalog="650">Criminal Justice and Prisons</subject>
+      <persname encodinganalog="600" source="lcsh">Ford, Alvin Bernard, -1991</persname>
+      <persname encodinganalog="600" source="lcsh">Wollan, Laurin A., 1937- </persname>
+      <subject encodinganalog="650" source="lcsh">Ford, Alvin Bernard, -1991--Trials, litigation, etc. </subject>
+      <subject encodinganalog="650" source="lcsh">Trials (Murder)--Florida.</subject>
+      <subject encodinganalog="650" source="lcsh">Death row inmates--Mental health--United States.</subject>
+      <subject encodinganalog="650" source="lcsh">Death row inmates--Florida--Case studies.</subject>
+      <subject encodinganalog="650" source="lcsh">Capital punishment--United States--Legal research.</subject>
+      <subject encodinganalog="650" source="lcsh">Capital punishment--Florida--Case studies.</subject>
+      <subject encodinganalog="650" source="lcsh">Insanity (Law) United States</subject>
+      <genreform encodinganalog="655" source="aat">News Clippings</genreform>
+      <genreform encodinganalog="655" source="aat">Newsletters</genreform>
+      <genreform encodinganalog="655" source="aat">Legal Correspondence</genreform>
+      <genreform encodinganalog="655" source="aat">Legal Documents</genreform>
+      <genreform encodinganalog="655" source="aat">Research Papers</genreform>
+      <genreform encodinganalog="655" source="aat">VHS (TM)</genreform>
+      <genreform encodinganalog="655" source="aat">Photographs</genreform>
+    </controlaccess>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>Preferred citation for this material is as follows:</p>
+      <p>Identification of specific item, series, box, folder, Alvin Ford Papers, 1965-1995. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+    </prefercite>
+    <dsc type="combined">
+      <head>Container List</head>
+      <!-- Start series 1-->
+      <c01 level="series" id="nam_apap159-1">
+        <did>
+          <unitid>1</unitid>
+          <unittitle label="Series">Legal Records</unittitle>
+          <unitdate type="inclusive" normal="1974/1991">1974-1991</unitdate>
+          <physdesc>
+            <extent unit="cubic ft.">3.8</extent>
+          </physdesc>
+        </did>
+        <arrangement>
+          <p>Arranged alphabetically.</p>
+        </arrangement>
+        <scopecontent>
+          <p>This series contains legal records that are mostly official court 
+		  proceedings of the Alvin Ford cases covering a period of seventeen 
+		  years. These cases include State of Florida v. Ford: 1974, which covers 
+		  the original trial court proceedings. Later cases that bear the same style 
+		  relate to later attempts of Ford on a motion for post conviction relief 
+		  and stay of execution in 1981 and a second attempt in 1987. Ford v. State 
+		  of Florida:1975-1988, Ford v. Strickland et al.: 1981-1984, Ford v. Wainwright: 
+		  1981-1988, and Ford v. Dugger: 1986-1991 all represent the trial cases Ford's 
+		  attorneys filed against a succession of superintendents of the Florida 
+		  State Prison and secretaries of the Department of Corrections. Other 
+		  proceedings include multiple trials, pleas, motions, hearings, testimonies, 
+		  and appeals. Other legal records are background studies on Ford that include 
+		  detailed psychiatric evaluations, medical and prison records, case summaries, 
+		  and undated notes by Laurin Wollan.</p>
+        </scopecontent>
+        <c02 id="nam_apap159-1_1">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Argument for Insanity</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1991">ca. 1984-1986</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_2">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Attorney Notes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974/1991">1974-1991</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_3">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Attorney Notes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974/1991">1974-1991</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_4">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>Attorney Notes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974/1991">1974-1991</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_5">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>Attorney Notes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974/1991">1974-1991</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_6">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>Autopsy Testimony, Medical Examiner</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_7">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>Background Report, Ford</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974/1981">1974-1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_8">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">8</container>
+            <unittitle>Biography, Ford</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_9">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">9</container>
+            <unittitle>Case Summaries, Ford</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_10">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">10</container>
+            <unittitle>Clemency Hearing</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_11">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">11</container>
+            <unittitle>Death Warrant, Ford</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_12">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">12</container>
+            <unittitle>Deposition of Witnesses</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_13">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">13</container>
+            <unittitle>Ford v. Dugger</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1938">1986-1988</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_14">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">14</container>
+            <unittitle>Ford v. Dugger</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_15">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">15</container>
+            <unittitle>Ford v. Dugger</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_16">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">16</container>
+            <unittitle>Ford v. Dugger</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_17">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">17</container>
+            <unittitle>Ford v. Dugger</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_18">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">18</container>
+            <unittitle>Ford v. Dugger</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989-1991">1989-1991</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_19">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">19</container>
+            <unittitle>Ford v. State of Florida</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/1977">1975-1977</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_20">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">1</container>
+            <unittitle>Ford v. State of Florida</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1981">1979-1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_21">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">2</container>
+            <unittitle>Ford v. State of Florida</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_22">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">3</container>
+            <unittitle>Ford v. State of Florida</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_23">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">4</container>
+            <unittitle>Ford v. State of Florida</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984/1988">1984-1988</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_24">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">5</container>
+            <unittitle>Ford v. Strickland et al.</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_25">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">6</container>
+            <unittitle>Ford v. Strickland et al.</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_26">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">7</container>
+            <unittitle>Ford v. Strickland et al.</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_27">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">8</container>
+            <unittitle>Ford v. Strickland et al.</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_28">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">9</container>
+            <unittitle>Ford v. Strickland et al.</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_29">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">10</container>
+            <unittitle>Ford v. Strickland et al.</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_30">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">11</container>
+            <unittitle>Ford v. Strickland et al.</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_31">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">12</container>
+            <unittitle>Ford v. Strickland et al.</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_32">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">13</container>
+            <unittitle>Ford v. Strickland et al.</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_33">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">14</container>
+            <unittitle>Ford v. Strickland et al.</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_34">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">15</container>
+            <unittitle>Ford v. Strickland et al.</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_35">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">16</container>
+            <unittitle>Ford v. Strickland et al.</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_36">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">17</container>
+            <unittitle>Ford v. Strickland et al.</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_37">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">1</container>
+            <unittitle>Ford v. Wainwright</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1984">1981-1984</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_38">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">2</container>
+            <unittitle>Ford v. Wainwright</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_39">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">3</container>
+            <unittitle>Ford v. Wainwright</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_40">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">4</container>
+            <unittitle>Ford v. Wainwright</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_41">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">5</container>
+            <unittitle>Ford v. Wainwright</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984/1985">1984-1985</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_42">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">6</container>
+            <unittitle>Ford v. Wainwright</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_43">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">7</container>
+            <unittitle>Ford v. Wainwright</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_44">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">8</container>
+            <unittitle>Ford v. Wainwright</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985/1986">1985-1986</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_45">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">9</container>
+            <unittitle>Ford v. Wainwright</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_46">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">10</container>
+            <unittitle>Ford v. Wainwright</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987-1988">1987-1988</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_47">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">11</container>
+            <unittitle>Interview Transcript, Wollan and Ford</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_48">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">12</container>
+            <unittitle>Prison Medical Records</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/1989">1975-1989</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_49">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">13</container>
+            <unittitle>Prison Record</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_50">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">14</container>
+            <unittitle>Proceedings to Determine Sanity</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_51">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">15</container>
+            <unittitle>Proceedings to Determine Sanity</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_52">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">16</container>
+            <unittitle>Psychiatric Reports</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/1988">1975-1988</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_53">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">17</container>
+            <unittitle>Social and Criminal History</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_54">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">1</container>
+            <unittitle>State of Florida v. Ford</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_55">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">2</container>
+            <unittitle>State of Florida v. Ford</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_56">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">3</container>
+            <unittitle>State of Florida v. Ford</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_57">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">4</container>
+            <unittitle>State of Florida v. Ford</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_58">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">5</container>
+            <unittitle>State of Florida v. Ford</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_59">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">6</container>
+            <unittitle>State of Florida v. Ford</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_60">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">7</container>
+            <unittitle>State of Florida v. Ford</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_61">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">8</container>
+            <unittitle>State of Florida v. Ford</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_62">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">9</container>
+            <unittitle>State of Florida v. Ford</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_63">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">10</container>
+            <unittitle>State of Florida v. Ford</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_64">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">11</container>
+            <unittitle>State of Florida v. Ford</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_65">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">12</container>
+            <unittitle>State of Florida v. Ford</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-1_66">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">13</container>
+            <unittitle>State of Florida v. Ford</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="nam_apap159-2">
+        <did>
+          <unitid>2</unitid>
+          <unittitle label="Series">Defense Team Research Material</unittitle>
+          <unitdate type="inclusive" normal="1972/1995">1972-1995</unitdate>
+          <physdesc>
+            <extent unit="cubic ft.">1.26</extent>
+          </physdesc>
+        </did>
+        <arrangement>
+          <p>Arranged by size and alphabetically thereafter.</p>
+        </arrangement>
+        <scopecontent>
+          <p>This series contains the research material that Ford's 
+					defense team accumulated over the course of their representation 
+					of Ford and includes research material from years prior to and 
+					after the case. This series contains notes on cases in progress 
+					as well as some material from related cases. There are newsletters, 
+					briefings, pamphlets, bulletins, essays, reports, and publications 
+					which discuss anti-death penalty and related legal issues. Also 
+					included are photocopies of selections from various undated publications 
+					about the death penalty. This series represents literature from a 
+					wide spectrum of death penalty abolitionists. Several folders contain 
+					news clippings organized by year that give a good overview of related 
+					death penalty cases and issues. Many of the news clippings were 
+					photocopied before deposit in the Department of Special Collections 
+					and Archives, while others required preservation photocopying. Also 
+					of note are several papers on death penalty issues written by professors 
+					and others representing law schools and universities in the United States.
+					</p>
+        </scopecontent>
+        <c02 id="nam_apap159-2_1">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Death Penalty, News Clippings</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972/1980">1972-1980</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_2">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Death Penalty, News Clippings</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1983">1981-1983</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_3">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Death Penalty, News Clippings</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_4">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>Death Penalty, News Clippings</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985/1987">1985-1987</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_5">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>Death Penalty, News Clippings</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1995">1988-1995</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_6">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>Death Penalty, Newsletters</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1989">1980-1989</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_7">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">1</container>
+            <unittitle>Death Penalty, Publications</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1995">ca. 1974-1990</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_8">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">2</container>
+            <unittitle>Ineffectiveness Case</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1981">1980-1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_9">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">3</container>
+            <unittitle>Race and Death Penalty in Florida, Report</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_10">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">1</container>
+            <unittitle>Bibliography, Death Penalty Publications</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_11">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">2</container>
+            <unittitle>Capitol Punishment, National Prisoner Statistics Bulletin</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978/1984">1978-1984</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_12">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">3</container>
+            <unittitle>Capitol Punishment, National Prisoner Statistics Bulletin</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974/1976">1974-1976</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_13">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">4</container>
+            <unittitle>Death Penalty, Briefing, Amnesty International</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_14">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">5</container>
+            <unittitle>Death Penalty, Cases, Other</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1989">1981-1989</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_15">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">6</container>
+            <unittitle>Death Penalty, Essays</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1989">1977-1989</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_16">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">7</container>
+            <unittitle>Death Penalty, Journals</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1986">1983-1986</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_17">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">8</container>
+            <unittitle>Death Penalty, Pamphlets</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978/1990">1978-1990</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_18">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">9</container>
+            <unittitle>Death Penalty, Legal Procedures</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_19">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">10</container>
+            <unittitle>Death Penalty, Publications</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974/1990">ca. 1974-1990</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_20">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">1</container>
+            <unittitle>Death Penalty, Publications</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1995">ca. 1974-1990</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_21">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">2</container>
+            <unittitle>Death Penalty, Publications</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1995">ca. 1974-1990</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_22">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">3</container>
+            <unittitle>Death Penalty, Publications</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1995">ca. 1974-1990</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_23">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">4</container>
+            <unittitle>Death Penalty, Publications</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1995">ca. 1974-1990</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_24">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">5</container>
+            <unittitle>Death Penalty, Publications, Reports</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1986">1980-1986</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_25">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">6</container>
+            <unittitle>Death Penalty, Research Papers</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1990">1980-1990</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-2_26">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">7</container>
+            <unittitle>Death Penalty, Research Papers, Michael Radelet</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1985">1981-1985</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="nam_apap159-3">
+        <did>
+          <unitid>3</unitid>
+          <unittitle label="Series">Correspondence</unittitle>
+          <unitdate type="inclusive" normal="1979/1990">1979-1990</unitdate>
+          <physdesc>
+            <extent unit="cubic ft.">0.17</extent>
+          </physdesc>
+        </did>
+        <arrangement>
+          <p>Arranged alphabetically.</p>
+        </arrangement>
+        <scopecontent>
+          <p>This series contains correspondence organized alphabetically by type 
+					(sent/received) and by year within each folder. A folder containing 
+					character references is noteworthy. These character references were 
+					written between late June and early August of 1981, around the time of 
+					Ford's parole hearings and clemency case. They are written by his mother, 
+					brother, teachers, and friends of the family who knew Ford all of his 
+					life. They testify that Ford was a normal, above-average individual who 
+					none believed was bent toward murder. Of particular significance is a 
+					letter from one of Ford's teachers, Richard Curtis, who said Ford was a 
+					model teenager even winning an award for a science project. Correspondence 
+					received by Ford are mostly carbon copies retained by Wollan of letters he 
+					had sent to Ford. Letters sent by Ford are not represented in this series 
+					since they are located within a set of legal papers used in a trial to 
+					prove Ford's sanity. They are located in Series One in the folder, Proceedings 
+					to Determine Sanity. The General Correspondence folder contains letters 
+					that list Laurin Wollan as the recipient of carbon copies, but are not 
+					addressed to or from Wollan. Correspondence received by Wollan are usually 
+					letters from fellow lawyers and the folders of correspondence sent are 
+					carbon copies retained by Wollan that he sent to various individuals.</p>
+        </scopecontent>
+        <c02 id="nam_apap159-3_1">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Ford, Received</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1988">1981-1988</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-3_2">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>General</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1990">1981-1990</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-3_3">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Wollan, Received</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1990">1981-1990</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-3_4">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>Wollan, Sent</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1988">1981-1988</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="nam_apap159-4">
+        <did>
+          <unitid>4</unitid>
+          <unittitle label="Series">Alvin Ford Biographical</unittitle>
+          <unitdate normal="1965/1993" type="inclusive">1965-1993</unitdate>
+          <physdesc>
+            <extent unit="cubic ft.">0.17</extent>
+          </physdesc>
+        </did>
+        <arrangement>
+          <p>Arranged chronologically.</p>
+        </arrangement>
+        <scopecontent>
+          <p>This series contains newspaper and magazine articles, most of which 
+					are photocopied, about the Ford case. This series also contains a 
+					folder related to Ford's death and funeral. Also represented are a 
+					small collection of photographs of Ford at various ages and photographs 
+					of his attorneys. There is a short note from Connie Ford, Alvin's mother, 
+					to Attorney Wollan concerning a video of the Ford funeral, which is also 
+					contained in this collection. The most important resource in this series 
+					is the news clippings, which are very helpful in following the progression 
+					of the Ford case. The news clippings cover most major events in the Ford 
+					case. In addition to collecting news clippings, Laurin Wollan had an 
+					assistant visit Gainesville, Florida, where Ford was apprehended, and the 
+					assistant photocopied all articles from area papers that reported on the 
+					Ford story from 1974 to 1975.</p>
+        </scopecontent>
+        <c02 id="nam_apap159-4_1">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Ford, Character References</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-4_2">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Death of Alvin Ford</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-4_3">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Ford, Connie, Correspondence</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-4_4">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>News Clippings</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974/1981">1974-1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-4_5">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>News Clippings</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982/1992">1982-1992</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-4_6">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>Photographs</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965/1993">1965-1993</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_apap159-4_7">
+          <did>
+            <container type="VHS">1</container>
+            <unittitle>Ford Funeral VHS Video</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
