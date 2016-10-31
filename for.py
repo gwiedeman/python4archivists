@@ -11,7 +11,7 @@ for number in list:
 	
 # try and add some things to the myList below and write a basic for loop:
 
-mylist = []
+myList = []
 
 for item in myList:
 	pass

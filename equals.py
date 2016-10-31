@@ -1,8 +1,8 @@
-something = "nothing"
+something = "A string of text"
 print(something)
 
 #adding together strings
-anotherThing = something + " more things"
+anotherThing = something + ", and even more text"
 print(anotherThing)
 
 

@@ -1,6 +1,6 @@
 import csv
 
-csvPath = "C:\\Users\\[USERNAME]\\python4archivists\\executedJuveniles.csv"
+csvPath = os.path.join(os.path.dirname(os.path.realpath(__file__)), "executedJuveniles.csv")
 
 csvFile = open(csvPath, "r")
 csvObject = csv.reader(csvFile)
