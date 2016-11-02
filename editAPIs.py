@@ -7,15 +7,15 @@ backendURL = "http://localhost:8089"
 user = "admin"
 pw = "admin"
 repoID = "2"
-resourceNumber = "174"
+resourceNumber = "2"
 
 #inital request for session
-r = requests.post(backendURL + "/users/" + user + "/login", data = {"password":pw})
+connectASpace = requests.post(backendURL + "/users/" + user + "/login", data = {"password":pw})
 
-if r.status_code == 200:
+if connectASpace.status_code == 200:
 	print ("Connection Successful")
 
-	sessionID = r.json()["session"]
+	sessionID = connectASpace.json()["session"]
 	headers = {'X-ArchivesSpace-Session':sessionID}
 	
 	resource = requests.get(backendURL + "/repositories/" + repoID + "/resources/" + resourceNumber,  headers=headers).json()
@@ -26,9 +26,14 @@ if r.status_code == 200:
 		isoDate = beginDate + "/" + endDate
 		date["expression"] = iso2DACS(isoDate)
 	print (resource["dates"][0]["expression"])
-	#jsonData = json.dump(resource)
+	
+	#Always remember to .dumps()
+	jsonData = json.dumps(resource)
+	
+	postResource = requests.post(backendURL + "/repositories/" + repoID + "/resources/" + resourceNumber,  headers=headers, data=jsonData)
+	print (postResource.json()["status"])
 	
 
 else:
-	print (r)
+	print (connectASpace)
 	
