@@ -6,7 +6,7 @@ fileObject = open(myPath, "r")
 textString = fileObject.read()
 print(textString)
 
-#make the textString variable equal the same string plus some more text
+#make the textString variable equal the same string plus more text
 textString = textString + "\nAdd another line here!"
 
 #print the new string

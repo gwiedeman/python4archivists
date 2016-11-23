@@ -1,10 +1,9 @@
 from lxml import etree as ET
 
-#enter a path to the mets.xml XML file here
-myPath = "C:\\Users\\[USERNAME]\\python4archivists\\apap159.xml"
+#enter a path to the XML file here
+xmlPath = "C:\\Users\\[USERNAME]\\python4archivists\\apap159.xml"
 
-parser = ET.XMLParser()
-xmlObject = ET.parse(myPath, parser)
+xmlObject = ET.parse(xmlPath)
 
 #root is the top-level <ead> tag
 root = xmlObject.getroot()
