@@ -11,11 +11,17 @@ for number in manyThings:
 	
 # try and add some things to the myList below and write a basic for loop:
 
-myList = []
+listOfIntegers = [5, 12324, 23, 657, 177]
+listOfStrings = ["a thing", "another thing", "a 3rd thing"]
 
-for item in myList:
+listOfStrings.append(10)
+
+print (listOfStrings)
+
+for item in listOfStrings:
 	pass
 	#remove pass and do something to item here
-	#maybe try myList.append(10)	
+	#maybe try listOfStrings.append("Some Text")	
+	#or print (listOfIntegers + 2)
 	
 listOfLists = [[01, 02, 03], ["January", "February", "March"]]

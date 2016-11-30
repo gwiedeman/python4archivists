@@ -1,7 +1,8 @@
 #enter a path to the example text file here
-myPath = "C:\\Users\\[USERNAME]\\python4archivists\\example.txt"
+windowsPath = "C:\\Users\\[USERNAME]\\python4archivists\\example.txt"
+unixPath = "/home/[USERNAME]/python4archivists/example.txt"
 
-fileObject = open(myPath, "r")
+fileObject = open(windowsPath, "r")
 
 textString = fileObject.read()
 print(textString)
@@ -16,7 +17,7 @@ print(textString)
 fileObject.close()
 
 """
-saveDir = "C:\\Users\\[USERNAME]\\python4archivists\\newFile.txt"
+saveDir = "newFile.txt"
 file2 = open(saveDir, "w")
 file2.write(textString)
 file2.close()
