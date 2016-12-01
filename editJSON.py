@@ -2,10 +2,11 @@ import json
 from DACS import iso2DACS
 
 #don't forget to change the path!
-jsonPath = "C:\\Users\\[USERNAME]\\python4archivists\\resource.json"
+windowsPath = "C:\\Users\\[USERNAME]\\python4archivists\\resource.json"
+unixPath = "/home/[USERNAME]/python4archivists/resource.json"
 
 #open the file, load the json file into lists and dictionaries with .load()
-jsonFile = open(jsonPath, "r")
+jsonFile = open(windowsPath, "r")
 jsonData = json.load(jsonFile)
 jsonFile.close()
 
@@ -16,8 +17,6 @@ for key in jsonData:
 	
 #looks like there is a "level" key and a "title" key
 print ("\n\n" + jsonData["level"] + ": "+ jsonData["title"])
-
-.dump()
 
 #there is also a notes key too, remove the # below to uncomment the line
 #print (jsonData["notes"])

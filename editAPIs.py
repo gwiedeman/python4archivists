@@ -16,7 +16,7 @@ if connectASpace.status_code == 200:
 	print ("Connection Successful")
 
 	sessionID = connectASpace.json()["session"]
-	headers = {'X-ArchivesSpace-Session':sessionID}
+	headers = {'X-ArchivesSpace-Session': sessionID}
 	
 	resource = requests.get(backendURL + "/repositories/" + repoID + "/resources/" + resourceNumber,  headers=headers).json()
 	
@@ -36,4 +36,3 @@ if connectASpace.status_code == 200:
 
 else:
 	print (connectASpace)
-	

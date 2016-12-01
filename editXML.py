@@ -1,9 +1,9 @@
 from lxml import etree as ET
 
 #enter a path to the XML file here
-xmlPath = "C:\\Users\\[USERNAME]\\python4archivists\\apap159.xml"
-
-xmlObject = ET.parse(xmlPath)
+windowsPath = "C:\\Users\\[USERNAME]\\python4archivists\\apap159.xml"
+unixPath = "/home/[USERNAME]/python4archivists/example.txt"
+xmlObject = ET.parse(windowsPath)
 
 #root is the top-level <ead> tag
 root = xmlObject.getroot()

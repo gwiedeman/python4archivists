@@ -7,7 +7,8 @@ def humanTime(timestamp):
 import platform
 print("I am running a " + os.name + " system, specifically " + platform.system() + " " + platform.release())
 
-directory = "C:\\Users\\[USERNAME]\\python4archivists"
+directory = os.path.dirname(os.path.realpath(__file__))
+print ("The path to this directory is " + directory)
 
 #start our counting variables
 folderCount = 0
@@ -22,7 +23,7 @@ for item in os.listdir(directory):
 		fileCount = fileCount + 1
 
 #print what we found to the command line		
-print("Found " + str(folderCount) + " folders and " + str(fileCount) + " files")
+print("Found " + str(folderCount) + " folders and " + str(fileCount) + " files here")
 
 """
 #find the exampleDir folder within our example files
